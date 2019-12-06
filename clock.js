@@ -13,7 +13,7 @@ function getTime(){
     }:${
         seconds < 10 ? `0${seconds}` : seconds
     }`;
-
+ 
 }
 
 function init(){
